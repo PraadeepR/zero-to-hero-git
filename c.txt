@@ -1,1 +1,1 @@
-This is feature-a c.txt file
+This is feature-a c.txt file. Also for feature d
